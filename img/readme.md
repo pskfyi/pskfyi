@@ -77,8 +77,7 @@ In `0.2.0` I designed a 2x2 grid of images, with the original photo in the top l
 
 In `0.2.0` the caption text which looked so good on desktop was taking up an excessive amount of vertical space on small viewports. I moved the information out of the root readme and into this document, which also provided space for elaboration on my process.
 
-<img src="./0.2.0-sm.png" width="49%"/>
-<img src="./0.3.0-sm.png" width="49%"/>
+<img src="./0.2.0-sm.png" width="49%"/> <img src="./0.3.0-sm.png" width="49%"/>
 
 <p align="center"><i>Before & After</i></p>
 
